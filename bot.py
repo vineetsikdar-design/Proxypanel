@@ -11,7 +11,7 @@ import threading
 # ==========================================
 # CONFIGURATION
 # ==========================================
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE" # Replace with your bot token
+BOT_TOKEN = "7830833473:AAF8mB0Vw4QAlLMAtGi3VjNnRuD40sekRWI" # Replace with your bot token
 ADMIN_ID = 7216116641
 HF_BASE_URL = "https://huggingface.co/datasets/CutehackX/hitek-data-bucket/resolve/main"
 
